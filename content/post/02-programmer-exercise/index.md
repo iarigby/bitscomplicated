@@ -7,6 +7,7 @@ image: cover.jpg
 tags:
   - beginner
   - learning
+slug: 02-programmer-exercise
 ---
 ## How do we navigate the myriad of concepts that make the code actually work?
 Growth journey of a software engineer is complex, and the sheer amount of directions you need to develop in can seem disorienting. 
