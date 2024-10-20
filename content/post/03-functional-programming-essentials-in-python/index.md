@@ -1,5 +1,5 @@
 ---
-title: Functional programming essentials in Python
+title: Functional Programming Tips in Python
 description: These features will allow you to create code that flows when writing and reads effortlessly
 date: 2024-10-20
 image: cover.jpg
@@ -97,5 +97,5 @@ def calculate_shipping_estimate(address: Address) -> int:
 			return provider_estimate(city.coordinates)
 ```
 
-## 4. Comprehensions
+## Comprehensions
 List comprehensions get their deserved spotlight, but I’ve seen cases where dictionary comprehension would’ve cut multiple lines. You can look at examples [on this page on python.org](https://peps.python.org/pep-0274/#examples)
