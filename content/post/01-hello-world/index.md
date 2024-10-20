@@ -4,6 +4,7 @@ Description: This took a few years longer that I expected
 slug: hello-world
 image: cover.jpg
 date: 2024-09-04
+draft: "true"
 ---
 
 
