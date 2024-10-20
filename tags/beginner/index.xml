@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Beginner on Bit's Complicated</title><link>https://bitscomplicated.com/tags/beginner/</link><description>Recent content in Beginner on Bit's Complicated</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 05 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bitscomplicated.com/tags/beginner/index.xml" rel="self" type="application/rss+xml"/><item><title>Not sure how to break through the wall of being a junior? This exercise will help</title><link>https://bitscomplicated.com/p/02-programmer-exercise/</link><pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate><guid>https://bitscomplicated.com/p/02-programmer-exercise/</guid><description>&lt;img src="https://bitscomplicated.com/p/02-programmer-exercise/cover.jpg" alt="Featured image of post Not sure how to break through the wall of being a junior? This exercise will help" />&lt;h2 id="how-do-we-navigate-the-myriad-of-concepts-that-make-the-code-actually-work">How do we navigate the myriad of concepts that make the code actually work?
+&lt;/h2>&lt;p>Growth journey of a software engineer is complex, and the sheer amount of directions you need to develop in can seem disorienting.&lt;/p>
+&lt;p>I frequently get asked for resources that helped me get so comfortable around linux/servers, terminal, the SDLC, deployments. Faced with this question, I always find myself struggling to point to a guide or a course of some sort, as I have not technically used anything major. What I slowly realised though, is that while I cannot share the process, it could be far more valuable to recommend a set of goals which would guide a person to embark on their own path to accomplishing it.&lt;/p>
+&lt;h2 id="we-learn-by-doing-but-how-do-we-find-out-what-we-should-do">We learn by doing, but how do we find out what we should do?
+&lt;/h2>&lt;p>The goals themselves are extremely short and concise, and what I love about them is that you can keep iterate over simple steps multiple times and keep expanding your knowledge around them.&lt;/p>
+&lt;p>More important are the constraints around them - constraints which I consider essential for productive learning. The convenience of modern one-click deployments like Vercel and Netlify is invaluable, and they do help the learning process by abstracting away complex processes, but at some point of your journey as the programmer, you need to take a step towards facing these complexities.&lt;/p>
+&lt;h2 id="your-goals">Your Goals
+&lt;/h2>&lt;ol>
+&lt;li>rent a vps from a cloud provider&lt;/li>
+&lt;li>ssh into it&lt;/li>
+&lt;li>install docker, or the runtime that you need&lt;/li>
+&lt;li>copy or download the artifact&lt;/li>
+&lt;li>run the program&lt;/li>
+&lt;li>open the ports and access the app over public ip (of the vps)&lt;/li>
+&lt;/ol>
+&lt;h2 id="your-process">Your Process
+&lt;/h2>&lt;h4 id="do">Do
+&lt;/h4>&lt;ul>
+&lt;li>Use search engines, forums and documentation for solving specific problems.&lt;/li>
+&lt;li>Assess and dial the difficulty up/down for each step. Do not hold back from easing up the requirements and taking shortcuts, but return and improve on them later&lt;/li>
+&lt;/ul>
+&lt;h4 id="dont">Don&amp;rsquo;t
+&lt;/h4>&lt;ul>
+&lt;li>use GPTs - the exercise is for developing your abilities for information synthesis and knowledge navigation. We need to consciously make room for advancing these skills, and that means occasionally refraining from taking the easy path in order to practice&lt;/li>
+&lt;li>Find and follow a comprehensive guide which includes all or multiple steps. We need to engage in active learning here and connect the dots ourselves.&lt;/li>
+&lt;/ul>
+&lt;p>These constraints mean the process will be slower than following spelled out instructions, but slowing down and challenging ourselves is the point. Letting our brains construct the connections between processes and ideas results in the strong foundation we need to keep reaching higher.&lt;/p>
+&lt;h2 id="next-steps">Next Steps
+&lt;/h2>&lt;p>I am working on a few suggestions to iteratively go deeper into the process. Let me know if you complete these and I&amp;rsquo;ll share the new ones!&lt;/p>
+&lt;p>Cover Photo by &lt;a class="link" href="https://unsplash.com/@christopheferron?utm_content=creditCopyText&amp;amp;utm_medium=referral&amp;amp;utm_source=unsplash" target="_blank" rel="noopener"
+>Christophe Ferron&lt;/a> on &lt;a class="link" href="https://unsplash.com/photos/down-view-of-brown-metal-ladder-p0hjjT1O_J8?utm_content=creditCopyText&amp;amp;utm_medium=referral&amp;amp;utm_source=unsplash" target="_blank" rel="noopener"
+>Unsplash&lt;/a>&lt;/p></description></item></channel></rss>
